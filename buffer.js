@@ -1,5 +1,6 @@
 // BUFFER
-//EXAMPLE: slice
+//EXAMPLE: Slice
+
 //creating the buffer
 var Buffers = require("buffers");
 //givens buffers an alais
