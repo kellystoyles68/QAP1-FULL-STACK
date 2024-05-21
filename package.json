@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
